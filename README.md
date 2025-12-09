@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Payton2001
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... Python, CSS, HTML5, JavaScript, PHP, Vue.js
-- 💞️ I’m looking to collaborate on ... Python, JavaScript entry level projects for the time being
+- 👀 I’m interested in ... BI Analysis
+- 🌱 I’m currently learning ... Python, SQL, Excel
+- 💞️ I’m looking to collaborate on ... Python, SQL entry level projects for the time being
 - 📫 How to reach me ... shadeanpayton@gmail.com
 
 <!---
